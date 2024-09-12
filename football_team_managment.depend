@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1726140234 source:c:\users\21264\documents\code blocks\football_team_managment\main.cpp
+	<iostream>
+	"Player.h"
+	"Match.h"
+	"team.h"
+
+1726075605 source:c:\users\21264\documents\code blocks\football_team_managment\player.cpp
+	"Player.h"
+
+1726075605 c:\users\21264\documents\code blocks\football_team_managment\player.h
+	<string>
+	<iostream>
+
+1726140645 source:c:\users\21264\documents\code blocks\football_team_managment\match.cpp
+	"Match.h"
+	<cstdlib>
+	<ctime>
+
+1726080816 c:\users\21264\documents\code blocks\football_team_managment\match.h
+	<string>
+	<iostream>
+
+1726140850 source:c:\users\21264\documents\code blocks\football_team_managment\team.cpp
+	"team.h"
+	"iostream"
+
+1726137168 c:\users\21264\documents\code blocks\football_team_managment\team.h
+	"Player.h"
+	"Match.h"
+	<vector>
+
